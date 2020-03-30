@@ -1,0 +1,1030 @@
+Data1;Data2;Correlation score
+CO - Age de l'assuré;Age de l'assuré;1.0
+CO - Coefficient Commercial;Ancienne réduction salariés (RED);1.0
+CO - Antivol Minimum Exigé;Antivol minimum exigé;1.0
+CO - Apprentissage Anticipé Conduite (O/N);Apprentissage anticipé de la conduite;1.0
+CO - Classe Réparation Véhicule;Classe de réparation du véhicule;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+SI - Code Cause Sinistre;Code cause sinistre;1.0
+CO-Code Formule;Code formule;1.0
+CO-Code Formule;Code formule;1.0
+CO-Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+CO-Code Formule;Code formule;1.0
+CO-Code Formule;Code formule;1.0
+CO-Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+CO-Code Formule;Code formule;1.0
+CO-Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+CO - Code Formule;Code formule;1.0
+SI - Code Formule;Code formule;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+Code Garantie Sinistrée;Code garantie sinistre;1.0
+CO-Code Motif CTI;Code motif CTI;1.0
+CO-Code Motif CTI;Code motif CTI;1.0
+CO-Code Motif CTI;Code motif CTI;1.0
+CO - Product Code;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+CO - Code Produit;Code produit;1.0
+CO - Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+CO-Code Produit;Code produit;1.0
+CO-Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+CO-Code Produit;Code produit;1.0
+CO-Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+CO-Code Produit;Code produit;1.0
+CO-Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+CO-Code Produit;Code produit;1.0
+SI - Product Code;Code produit;1.0
+CO - Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+SI - Code Produit;Code produit;1.0
+CO-Code Produit;Code produit;1.0
+CO - CSDP Appliqué;Coefficient de surveillance du portefeuille appliqué;1.0
+CO - CSDP Appliqué;Coefficient de surveillance du portefeuille appliqué;1.0
+CO-Date Création Affaire Nouvelle;Date création affaire nouvelle;1.0
+CO-Date Création Affaire Nouvelle;Date création affaire nouvelle;1.0
+CO-Date Création Affaire Nouvelle;Date création affaire nouvelle;1.0
+CO-Date Création Affaire Nouvelle;Date création affaire nouvelle;1.0
+CO-Date Création Affaire Nouvelle;Date création affaire nouvelle;1.0
+CO-Date Création Affaire Nouvelle;Date création affaire nouvelle;1.0
+CO - Date Création Affaire Nouvelle;Date création affaire nouvelle;1.0
+CO-Date Création Affaire Nouvelle;Date création affaire nouvelle;1.0
+CO-Date Création Affaire Nouvelle;Date création affaire nouvelle;1.0
+SI - Claim Closed Date;Date de cloture du sinistre;1.0
+CO - Date de début effet avenant;Date de début d'effet avenant;1.0
+CO - Date de début effet avenant;Date de début d'effet avenant;1.0
+CO - Date de début effet avenant;Date de début d'effet avenant;1.0
+CO - Date de début effet contrat;Date de début d'effet du contrat;1.0
+CO - Date de début effet contrat;Date de début d'effet du contrat;1.0
+CO-Date Dernière Tarification;Date de dernière tarification;1.0
+CO-Date Dernière Tarification;Date de dernière tarification;1.0
+CO-Date Dernière Tarification;Date de dernière tarification;1.0
+CO-Date Dernière Tarification;Date de dernière tarification;1.0
+CO-Date Dernière Tarification;Date de dernière tarification;1.0
+CO - Date Dernière Tarification;Date de dernière tarification;1.0
+CO-Date Dernière Tarification;Date de dernière tarification;1.0
+CO-Date Dernière Tarification;Date de dernière tarification;1.0
+CO-Date Dernière Tarification;Date de dernière tarification;1.0
+CO - Date de fin d effet d avenant;Date de fin effet avenant;1.0
+CO - Date de fin d effet d avenant;Date de fin effet avenant;1.0
+CO - Date Naissance Assuré;Date de naissance de l'assuré;1.0
+CO-Date Prochain Terme;Date de prochain terme;1.0
+CO-Date Prochain Terme;Date de prochain terme;1.0
+CO-Date Prochain Terme;Date de prochain terme;1.0
+CO-Date Prochain Terme;Date de prochain terme;1.0
+CO-Date Prochain Terme;Date de prochain terme;1.0
+CO-Date Prochain Terme;Date de prochain terme;1.0
+CO-Date Prochain Terme;Date de prochain terme;1.0
+CO-Date Prochain Terme;Date de prochain terme;1.0
+SI - Claim Opened Date;Date d'ouverture du sinistre;1.0
+CO - Date Echéance Principale;Date échéance principale;1.0
+CO - Date Echéance Principale;Date échéance principale;1.0
+CO - Date Emmenagement HEC;Date emménagement HEC;1.0
+CO-Date Référence Tarif;Date référence tarif;1.0
+CO-Date Référence Tarif;Date référence tarif;1.0
+CO-Date Référence Tarif;Date référence tarif;1.0
+CO-Date Référence Tarif;Date référence tarif;1.0
+CO-Date Référence Tarif;Date référence tarif;1.0
+CO-Date Référence Tarif;Date référence tarif;1.0
+CO-Date Référence Tarif;Date référence tarif;1.0
+CO-Date Référence Tarif;Date référence tarif;1.0
+CO - Date Référence Tarif;Date référence tarif;1.0
+SI - Claim Status;Etat du sinistre;1.0
+SI - Etat Sinistre;Etat du sinistre;1.0
+SI - Etat Sinistre;Etat du sinistre;1.0
+SI - Etat Sinistre;Etat du sinistre;1.0
+SI - Etat Sinistre;Etat du sinistre;1.0
+SI - Etat Sinistre;Etat du sinistre;1.0
+SI - Etat Sinistre;Etat du sinistre;1.0
+SI - Etat Sinistre;Etat du sinistre;1.0
+SI - Etat Sinistre;Etat du sinistre;1.0
+SI - Etat Sinistre;Etat du sinistre;1.0
+SI - Etat Sinistre;Etat du sinistre;1.0
+SI - Claim Status;Etat du sinistre;1.0
+SI - Etat du Sinistre;Etat du sinistre;1.0
+CO-Mois Echéance Principale;Mois échéance principale;1.0
+CO-Mois Echéance Principale;Mois échéance principale;1.0
+CO-Mois Echéance Principale;Mois échéance principale;1.0
+CO-Mois Echéance Principale;Mois échéance principale;1.0
+CO-Mois Echéance Principale;Mois échéance principale;1.0
+CO-Mois Echéance Principale;Mois échéance principale;1.0
+CO-Mois Echéance Principale;Mois échéance principale;1.0
+CO-Mois Echéance Principale;Mois échéance principale;1.0
+CO-Motif Passage Avenant;Motif passage avenant;1.0
+CO-Motif Passage Avenant;Motif passage avenant;1.0
+CO-Motif Passage Avenant;Motif passage avenant;1.0
+CO-Motif Passage Avenant;Motif passage avenant;1.0
+CO-Motif Passage Avenant;Motif passage avenant;1.0
+CO-Motif Passage Avenant;Motif passage avenant;1.0
+CO - Motif Passage Avenant;Motif passage avenant;1.0
+CO-Motif Passage Avenant;Motif passage avenant;1.0
+CO-Motif Passage Avenant;Motif passage avenant;1.0
+Name;Nom;1.0
+Name;Nom;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d'Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d'Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+CO - Amendment Number;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d'Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+SI - N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d'Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d'Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+Numéro d'Avenant;Numéro d'avenant;1.0
+Amendment Number;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+Numéro d'Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° d’avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+Numéro d'Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+Numéro d Avenant;Numéro d'avenant;1.0
+Amendment Number;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Avenant;Numéro d'avenant;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+SI - N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+Numéro de personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+SI - N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+SI - N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne Sogessur;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+N° Personne;Numéro de client assuré;1.0
+SI - N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+SI - N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+SI - N° contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+Contract Number;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+SI - N° de contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+CO - N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+Contract Number;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+SI - Numero de contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+CO - N° de contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+SI - N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+SI - Contract Number;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+Contract Number;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° de contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° contrat;Numéro de contrat;1.0
+Numéro de Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Contrat;Numéro de contrat;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+SI- N° de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+SI- N° de sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+SI - N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+SI - N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+SI - N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+SI - N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+SI - N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+SI - N° de sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+Claim Number;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Numéro de sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+N° Sinistre;Numéro du sinistre;1.0
+Region;Pays;1.0
+CO - Surface Dépendances;Surface dépendances;1.0
+SI - Type Montant;Type de montant;1.0
+SI - Type Montant;Type de montant;1.0
+SI - Type Montant;Type de montant;1.0
+SI - Type Montant;Type de montant;1.0
+SI - Type Montant;Type de montant;1.0
+SI - Type Montant;Type de montant;1.0
+SI - Type Montant;Type de montant;1.0
+SI - Type Montant;Type de montant;1.0
+CO - Zone Locale;Zone locale;1.0
+CO - Zone Locale;Zone locale;1.0
+CO - CRMR (Recalculé);CRM recalculé;0.97
+CO - CRMR (Recalculé);CRM recalculé;0.97
+CO - Coefficient Commercial (Réduction Salariés);Ancienne réduction salariés (RED);0.9678
+CO - Coefficient Divergence Voulue AUTO (DIVA);Tarification auto - coefficient de divergence voulue (DIVA);0.9512
+CO-Canal de vente;Canal de vente du contrat;0.9366
+CO-Canal de vente;Canal de vente du contrat;0.9366
+CO-Canal de vente;Canal de vente du contrat;0.9366
+CO-Canal de vente;Canal de vente du contrat;0.9366
+CO-Canal de vente;Canal de vente du contrat;0.9366
+CO-Canal de vente;Canal de vente du contrat;0.9366
+CO - Canal de vente;Canal de vente du contrat;0.9366
+CO-Canal de vente;Canal de vente du contrat;0.9366
+CO-Canal de vente;Canal de vente du contrat;0.9366
+CO - Canal Distribution;Canal de distribution du contrat;0.9338
+CO - Canal Distribution;Canal de distribution du contrat;0.9338
+CO - Canal Distribution;Canal de distribution du contrat;0.9338
+CO - Canal Distribution;Canal de distribution du contrat;0.9338
+CO - Canal Distribution;Canal de distribution du contrat;0.9338
+CO - Canal Distribution;Canal de distribution du contrat;0.9338
+CO - Canal Distribution;Canal de distribution du contrat;0.9338
+CO - Canal Distribution;Canal de distribution du contrat;0.9338
+CO - Canal Distribution;Canal de distribution du contrat;0.9338
+CO - Canal Distribution;Canal de distribution du contrat;0.9338
+CO - Canal de Distribution;Canal de distribution du contrat;0.9338
+CO-Fin Effet Avenant;Date de fin effet avenant;0.9333
+CO-Fin Effet Avenant;Date de fin effet avenant;0.9333
+CO-Fin Effet Avenant;Date de fin effet avenant;0.9333
+CO-Fin Effet Avenant;Date de fin effet avenant;0.9333
+CO-Fin Effet Avenant;Date de fin effet avenant;0.9333
+CO-Fin Effet Avenant;Date de fin effet avenant;0.9333
+CO-Fin Effet Avenant;Date de fin effet avenant;0.9333
+CO - Fin Effet Avenant;Date de fin effet avenant;0.9333
+CO-Fin Effet Avenant;Date de fin effet avenant;0.9333
+CO - Coefficient Pilotage AUTO (CPIA);Tarification auto - coefficient de pilotage auto (CPIA);0.9296
+CO-Début Effet Avenant;Date de début d'effet avenant;0.9268
+CO-Début Effet Avenant;Date de début d'effet avenant;0.9268
+CO-Début Effet Avenant;Date de début d'effet avenant;0.9268
+CO-Début Effet Avenant;Date de début d'effet avenant;0.9268
+CO-Début Effet Avenant;Date de début d'effet avenant;0.9268
+CO-Début Effet Avenant;Date de début d'effet avenant;0.9268
+CO-Début Effet Avenant;Date de début d'effet avenant;0.9268
+CO-Début Effet Avenant;Date de début d'effet avenant;0.9268
+CO - Début Effet Avenant;Date de début d'effet avenant;0.9268
+CO-Début Effet contrat;Date de début d'effet du contrat;0.9252
+CO-Début Effet contrat;Date de début d'effet du contrat;0.9252
+CO-Début Effet contrat;Date de début d'effet du contrat;0.9252
+CO-Début Effet contrat;Date de début d'effet du contrat;0.9252
+CO-Début Effet contrat;Date de début d'effet du contrat;0.9252
+CO-Début Effet contrat;Date de début d'effet du contrat;0.9252
+CO-Début Effet contrat;Date de début d'effet du contrat;0.9252
+CO-Début Effet contrat;Date de début d'effet du contrat;0.9252
+SI - Date Réouverture;Date de réouverture du sinistre;0.9197
+SI - Date Réouverture;Date de réouverture du sinistre;0.9197
+SI - Date Réouverture;Date de réouverture du sinistre;0.9197
+SI - Date Réouverture;Date de réouverture du sinistre;0.9197
+SI - Date Réouverture;Date de réouverture du sinistre;0.9197
+SI - Date Réouverture;Date de réouverture du sinistre;0.9197
+SI - Date Réouverture;Date de réouverture du sinistre;0.9197
+SI - Date Réouverture;Date de réouverture du sinistre;0.9197
+SI - Date Réouverture;Date de réouverture du sinistre;0.9197
+SI - Date Réouverture;Date de réouverture du sinistre;0.9197
+SI - Date Cloture;Date de cloture du sinistre;0.918
+SI - Date Cloture;Date de cloture du sinistre;0.918
+SI - Date Cloture;Date de cloture du sinistre;0.918
+SI - Date Cloture;Date de cloture du sinistre;0.918
+SI - Date Cloture;Date de cloture du sinistre;0.918
+SI - Date Cloture;Date de cloture du sinistre;0.918
+SI - Date Cloture;Date de cloture du sinistre;0.918
+SI - Date Cloture;Date de cloture du sinistre;0.918
+SI - Date Cloture;Date de cloture du sinistre;0.918
+SI - Date Cloture;Date de cloture du sinistre;0.918
+SI - Date Déclaration;Date de déclaration du sinistre;0.9165
+SI - Date Déclaration;Date de déclaration du sinistre;0.9165
+SI - Date Déclaration;Date de déclaration du sinistre;0.9165
+SI - Date Déclaration;Date de déclaration du sinistre;0.9165
+SI - Date Déclaration;Date de déclaration du sinistre;0.9165
+SI - Date Déclaration;Date de déclaration du sinistre;0.9165
+SI - Date Déclaration;Date de déclaration du sinistre;0.9165
+SI - Date Déclaration;Date de déclaration du sinistre;0.9165
+SI - Date Déclaration;Date de déclaration du sinistre;0.9165
+SI - Date de déclaration;Date de déclaration du sinistre;0.9165
+SI - Date Déclaration;Date de déclaration du sinistre;0.9165
+CO - Secteur Professionnel;Secteur professionnel assuré;0.9144
+CO-Code Fractionnement;Code fractionnement contrat;0.9123
+CO-Code Fractionnement;Code fractionnement contrat;0.9123
+CO - Code fractionnement;Code fractionnement contrat;0.9123
+CO - Code fractionnement;Code fractionnement contrat;0.9123
+CO-Code Fractionnement;Code fractionnement contrat;0.9123
+CO-Code Fractionnement;Code fractionnement contrat;0.9123
+CO-Code Fractionnement;Code fractionnement contrat;0.9123
+CO-Code Fractionnement;Code fractionnement contrat;0.9123
+CO-Code Fractionnement;Code fractionnement contrat;0.9123
+CO-Code Fractionnement;Code fractionnement contrat;0.9123
+CO - Capital Objets de Valeur;Capital objets de valeur (MRH);0.9118
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Ouverture;Date d'ouverture du sinistre;0.9052
+SI - Date Survenance;Date de survenance du sinistre;0.9041
+SI - Date Survenance;Date de survenance du sinistre;0.9041
+SI - Date Survenance;Date de survenance du sinistre;0.9041
+SI - Date Survenance;Date de survenance du sinistre;0.9041
+SI - Date Survenance;Date de survenance du sinistre;0.9041
+SI - Date Survenance;Date de survenance du sinistre;0.9041
+SI - Date de Survenance;Date de survenance du sinistre;0.9041
+SI - Date Survenance;Date de survenance du sinistre;0.9041
+SI - Date Survenance;Date de survenance du sinistre;0.9041
+SI - Date Survenance;Date de survenance du sinistre;0.9041
+SI - Date Survenance;Date de survenance du sinistre;0.9041
+CO - Situation du contrat;Code situation contrat;0.8946
+CO - Situation du contrat;Code situation contrat;0.8946
+CO - Code Situation;Code situation contrat;0.8929
+CO - Age Véhicule;Age du véhicule assuré;0.8928
+CO - Age Véhicule;Age du véhicule assuré;0.8928
+SI - Cause of Claim;Code cause sinistre;0.8838
+SI - Cause du Sinistre;Code cause sinistre;0.8838
+SI - Cause of Claim;Code cause sinistre;0.8838
+CO - Code Garantie;Code garantie sinistre;0.8835
+CO - Age Permis Conducteur;Age de permis du conducteur principal;0.8811
+CO - Age Permis Conducteur;Age de permis du conducteur principal;0.8811
+CO - Statut Occupation;Statut occupation MRH;0.8771
+CO - Statut Occupation;Statut occupation MRH;0.8771
+CO - Nature Bien;Nature du bien MRH;0.8756
+SI - Garantie sinistrée;Code garantie sinistre;0.8747
+CO - Date Mise en Circulation;Date mise en circulation véhicule;0.8738
+CO - Date Mise en Circulation;Date mise en circulation véhicule;0.8738
+CO - Code Secteur Professionnel;Secteur professionnel assuré;0.8738
+CO - Code Secteur Professionnel;Secteur professionnel assuré;0.8738
+CO - Boite de vitesse;Boîte de vitesse du véhicule;0.8732
+SI - Montant Reversements Encaissés;Montant reversements encaissés total;0.8729
+SI - Montant Reversements Encaissés;Montant reversements encaissés total;0.8729
+SI - Montant Reversements Encaissés;Montant reversements encaissés total;0.8729
+SI - Montant Reversements Encaissés;Montant reversements encaissés total;0.8729
+CO - Code Canal de Distribution;Canal de distribution du contrat;0.8727
+CO - Ancien Coefficient Divergence Voulue AUTO (DIVA);Tarification auto - coefficient de divergence voulue (DIVA);0.8677
+CO - Coefficient SDP;Coefficient de surveillance du portefeuille appliqué;0.8661
+CO - Coefficient Bon Bonus;Tarification auto - coefficient bon bonus;0.8656
+CO - Code Taxe;Code taxe garantie;0.863
+CO - Type Résidence;Type résidence MRH;0.8628
+CO - Niveau Tarifaire Calculé;Tarification auto - niveau tarifaire calculé;0.862
+N° de personne;Code personne;0.8607
+N° de personne;Code personne;0.8607
+N° de personne;Code personne;0.8607
+N° de personne;Code personne;0.8607
+CO - Date Naissance;Date de naissance de l'assuré;0.8579
+CO - CLIA après matrice;Tarification auto - CLIA après matrice;0.8578
+CO - CLIA après pause;Tarification auto - CLIA après pause;0.8578
+CO - Product;Code produit;0.8575
+CO - Date Naissance Conducteur;Date de naissance conducteur principal;0.8553
+CO - Date Naissance Conducteur;Date de naissance conducteur principal;0.8553
+CO - CLIM après matrice;Tarification auto - CLIM après matrice;0.8535
+CO - CLIM après pause;Tarification auto - CLIM après pause;0.8535
+CO - Date Permis Conducteur;Date de permis conducteur principal;0.8492
+CO - Date Permis Conducteur;Date de permis conducteur principal;0.8492
+CO - Niveau Tarifaire Appliqué;Tarification auto - niveau tarifaire appliqué;0.8492
+CO - Année de Construction;Année de construction du bien;0.8435
+CO - Coefficient conducteur désigné;Tarification auto - coefficient conducteur désigné;0.8404
+CO - Ecart Moteur;Tarification auto - écart moteur;0.8392
+CO - Code offre;Code offre auto;0.8388
+CO - Code Offre;Code offre auto;0.8388
+CO - Ancienne Zone Locale;Zone locale;0.8363
+CO - Avenant;Numéro d'avenant;0.8341
+SI - Avenant;Numéro d'avenant;0.8341
+CO - Age conducteur;Age du conducteur principal;0.8333
+CO - Coefficient de Lissage MRH;Tarification MRH - coefficient de lissage MRH (CLIM);0.8312
+CO - Sexe;Code sexe de l'assuré;0.8203
+CO - Montant Franchise;Montant franchise MRH;0.8178
+CO - Montant Franchise;Montant franchise MRH;0.8178
+CO - Code Usage;Code usage du véhicule;0.8065
+CO - Date Achat;Date d'achat du véhicule;0.798
+CO - Date Achat;Date d'achat du véhicule;0.798
+SI - Code Pays du lieu de souscription;Code pays de souscription du contrat;0.7891
+SI - Code Pays du lieu de souscription;Code pays de souscription du contrat;0.7891
+SI - Code Pays du lieu de souscription;Code pays de souscription du contrat;0.7891
+SI - Code Pays du lieu de souscription;Code pays de souscription du contrat;0.7891
+SI - Code Pays du lieu de souscription;Code pays de souscription du contrat;0.7891
+SI - Code Pays du lieu de souscription;Code pays de souscription du contrat;0.7891
+SI - Code Pays du lieu de souscription;Code pays de souscription du contrat;0.7891
+SI - Code Pays du lieu de souscription;Code pays de souscription du contrat;0.7891
+SI - Code Pays du lieu de souscription;Code pays de souscription du contrat;0.7891
+CO - Carrosserie;Carrosserie du véhicule;0.785
+CO - Code INSEE Garage;Code INSEE lieu garage - auto;0.7847
+CO - Taux Revalorisation;Taux de revalorisation de la rente;0.7827
+CO - Etat contrat;Etat du sinistre;0.7807
+CO - Code INSEE Travail;Code INSEE adresse travail - auto;0.7763
+SI - Code Postal Survenance;Code postal lieu de survenance sinistre;0.7762
+SI - Code Postal Survenance;Code postal lieu de survenance sinistre;0.7762
+SI - Code Postal Survenance;Code postal lieu de survenance sinistre;0.7762
+SI - Code Postal Survenance;Code postal lieu de survenance sinistre;0.7762
+SI - Code Postal Survenance;Code postal lieu de survenance sinistre;0.7762
+SI - Code Postal Survenance;Code postal lieu de survenance sinistre;0.7762
+SI - Code Postal Survenance;Code postal lieu de survenance sinistre;0.7762
+SI - Code Postal Survenance;Code postal lieu de survenance sinistre;0.7762
+SI - Code Postal Survenance;Code postal lieu de survenance sinistre;0.7762
+SI - Code Postal Survenance;Code postal lieu de survenance sinistre;0.7762
+SI - Ville du sinistre;Ville du sinistre MRH;0.7756
+SI - Ville du sinistre;Ville du sinistre MRH;0.7756
+SI - Ville du sinistre;Ville du sinistre MRH;0.7756
+SI - Ville du sinistre;Ville du sinistre MRH;0.7756
+SI - Ville du sinistre;Ville du sinistre MRH;0.7756
+SI - Ville du sinistre;Ville du sinistre MRH;0.7756
+SI - Ville du sinistre;Ville du sinistre MRH;0.7756
+SI - Ville du sinistre;Ville du sinistre MRH;0.7756
+CO - Code Clause;Code clause MRH;0.7733
+SI - Code Formule (Ouverture Sinistre);Code formule sinistre;0.773
+SI - Code Formule (Ouverture Sinistre);Code formule sinistre;0.773
+SI - Code Formule (Ouverture Sinistre);Code formule sinistre;0.773
+SI - Code Formule (Ouverture Sinistre);Code formule sinistre;0.773
+SI - Code Formule (Ouverture Sinistre);Code formule sinistre;0.773
+SI - Code Formule (Ouverture Sinistre);Code formule sinistre;0.773
+SI - Code Formule (Ouverture Sinistre);Code formule sinistre;0.773
+SI - Code Formule (Ouverture Sinistre);Code formule sinistre;0.773
+SI - Code Formule (Ouverture Sinistre);Code formule sinistre;0.773
+CO - Classe Véhicule;Classe de réparation du véhicule;0.7727
+CO - Capital Objets Usuels Estimé;Capital objets usuels (MRH);0.7673
+CO - Code Postal Garage;Code postal lieu de garage - auto;0.7667
+CO - Cause Sinistre Non Responsable 2;Antécédents auto - cause sinistre non responsable;0.7664
+CO - Cause Sinistre Non Responsable 3;Antécédents auto - cause sinistre non responsable;0.7664
+CO - Cause Sinistre Non Responsable 1;Antécédents auto - cause sinistre non responsable;0.7664
+CO - Cause Sinistre Non Responsable 4;Antécédents auto - cause sinistre non responsable;0.7664
+CO - Cause Sinistre Partiellement Responsable 3;Antécédents auto - cause sinistre partiellement responsable;0.7664
+CO - Cause Sinistre Partiellement Responsable 1;Antécédents auto - cause sinistre partiellement responsable;0.7664
+CO - Cause Sinistre Partiellement Responsable 4;Antécédents auto - cause sinistre partiellement responsable;0.7664
+CO - Cause Sinistre Partiellement Responsable 2;Antécédents auto - cause sinistre partiellement responsable;0.7664
+SI - Montant Prévisions Reversement;Prévision de reversement à la garantie du sinistre;0.7647
+SI - Montant Prévisions Reversement;Prévision de reversement à la garantie du sinistre;0.7647
+SI - Montant Prévisions Reversement;Prévision de reversement à la garantie du sinistre;0.7647
+SI - Montant Prévisions Reversement;Prévision de reversement à la garantie du sinistre;0.7647
+CO-Date Création Situation Contrat(Avenant);Date création avenant;0.7615
+CO-Date Création Situation Contrat(Avenant);Date création avenant;0.7615
+CO-Date Création Situation Contrat(Avenant);Date création avenant;0.7615
+CO-Date Création Situation Contrat(Avenant);Date création avenant;0.7615
+CO-Date Création Situation Contrat(Avenant);Date création avenant;0.7615
+CO-Date Création Situation Contrat(Avenant);Date création avenant;0.7615
+CO-Date Création Situation Contrat(Avenant);Date création avenant;0.7615
+CO-Date Création Situation Contrat(Avenant);Date création avenant;0.7615
+CO - Date Création Situation Contrat (Avenant);Date création avenant;0.7615
+CO - Code Postal Travail;Code postal adresse travail - auto;0.7579
+CO - Ancien Niveau Tarifaire Calculé;Tarification auto - niveau tarifaire calculé;0.7549
+SI - Montant Provisions Restantes;Montant de la provision cédée restante;0.7531
+SI - Montant Provisions Restantes;Montant de la provision cédée restante;0.7531
+SI - Montant Provisions Restantes;Montant de la provision cédée restante;0.7531
+SI - Montant Provisions Restantes;Montant de la provision cédée restante;0.7531
+SI - Montant Provisions Restantes;Montant de la provision cédée restante;0.7531
+SI - Montant Provisions Restantes;Montant de la provision cédée restante;0.7531
+SI - Montant Provisions Restantes;Montant de la provision cédée restante;0.7531
+SI - Montant Provisions Restantes;Montant de la provision cédée restante;0.7531
+CO-Date Position;Tarification auto - date de position;0.752
+CO-Date Position;Tarification auto - date de position;0.752
+CO - CLIM Avenant - Taux de régulation;Tarification MRH - CLIM avenant - taux de régulation convergence;0.7499
+CO - CLIM Avenant - Taux théorique;Tarification MRH - CLIM avenant - taux d'évolution théorique;0.7499
+CO - CRM;CRM déclaré;0.7483
+CO - CRM;CRM déclaré;0.7483
+CO - Date Fin Effet Clause;Date de fin d'effet du contrat;0.7475
+SI - Montant Prévision Recours;Prévision de recours à la garantie du sinistre;0.7422
+CO - Date Application Sanction SDP;Coefficient de surveillance du portefeuille appliqué;0.738
+CO - SDP - Date Application Sanction;Coefficient de surveillance du portefeuille appliqué;0.738
+CO - SDP - Date Application Sanction;Coefficient de surveillance du portefeuille appliqué;0.738
+CO - Adresse Code INSEE;Code INSEE adresse travail - auto;0.736
+N°Client;Numéro de client assuré;0.7357
+N°Client;Numéro de client assuré;0.7357
+N° Client;Numéro de client assuré;0.7357
+N° Client;Numéro de client assuré;0.7357
+N°Client;Numéro de client assuré;0.7357
+N° Client;Numéro de client assuré;0.7357
+N°Client;Numéro de client assuré;0.7357
+N° Client;Numéro de client assuré;0.7357
+N°Client;Numéro de client assuré;0.7357
+CO - N° Client;Numéro de client assuré;0.7357
+N° Client;Numéro de client assuré;0.7357
+N°Client;Numéro de client assuré;0.7357
+N°Client;Numéro de client assuré;0.7357
+N° Client;Numéro de client assuré;0.7357
+SI - N° Client;Numéro de client assuré;0.7357
+N°Client;Numéro de client assuré;0.7357
+CO - Ancien Niveau Tarifaire Appliqué;Tarification auto - niveau tarifaire appliqué;0.7336
+CO - Date Début Effet Clause;Date de début d'effet du contrat;0.728
+CO - Motif Avenant;Motif passage avenant;0.7262
+CO - Motif Avenant;Motif passage avenant;0.7262
+CO - Motif Avenant;Motif passage avenant;0.7262
+CO - CTI;Code motif CTI;0.7138
+CO - CTI;Code motif CTI;0.7138
+CO - CTI;Code motif CTI;0.7138
+CO - Adresse Code Postal;Code postal adresse travail - auto;0.7135
+CO - Adresse Code Postal;Code postal adresse travail - auto;0.7135
+CO - Clauses A;Code clause MRH;0.6944
+CO - Clauses A-1;Code clause MRH;0.6944
+SI - Montant Total Recours Encaissés;Montant reversements encaissés total;0.6942
+SI - Montant Total Recours Encaissés;Montant reversements encaissés total;0.6942
+SI - Montant Total Recours Encaissés;Montant reversements encaissés total;0.6942
+SI - Montant Total Recours Encaissés;Montant reversements encaissés total;0.6942
+SI - Montant Total Recours Encaissés;Montant reversements encaissés total;0.6942
+SI - Montant Total Recours Encaissés;Montant reversements encaissés total;0.6942
+SI - Montant Total Recours Encaissés;Montant reversements encaissés total;0.6942
+SI - Montant Total Recours Encaissés;Montant reversements encaissés total;0.6942
+CO - Cause Sinistre Responsable 2;Antécédents auto - cause sinistre responsable;0.6741
+CO - Cause Sinistre Responsable 1;Antécédents auto - cause sinistre responsable;0.6741
+CO - Cause Sinistre Responsable 4;Antécédents auto - cause sinistre responsable;0.6741
+CO - Cause Sinistre Responsable 3;Antécédents auto - cause sinistre responsable;0.6741
+CO - Code Personne : AEC;Code personne;0.6669
+SI - Guarantee Type;Type de montant;0.6614
+CO - Code seuil;Tarification auto - code seuil - terme;0.6601
+CO - Code INSEE;Code INSEE du bien assuré;0.6579
+CO - Code INSEE;Code INSEE du bien assuré;0.6579
+CO - Coefficient de reduction salarié;Réduction salariés (REDSAL);0.6551
+CO - Coefficient de reduction salarié;Réduction salariés (REDSAL);0.6551
+CO - Date Permis;Date de permis conducteur principal;0.6498
+CO - Amendment Date;Date création avenant;0.6401
+Comment Address;Adresse;0.6373
+CO-Code Situation Police;Code situation contrat;0.6343
+CO-Code Situation Police;Code situation contrat;0.6343
+CO-Code Situation Police;Code situation contrat;0.6343
+CO-Code Situation Police;Code situation contrat;0.6343
+CO-Code Situation Police;Code situation contrat;0.6343
+CO - Code Situation Police;Code situation contrat;0.6343
+CO-Code Situation Police;Code situation contrat;0.6343
+CO-Code Situation Police;Code situation contrat;0.6343
+CO-Code Situation Police;Code situation contrat;0.6343
+SG_Fic Name;Nom;0.6302
+SG_Contedi Name;Nom;0.6302
+Caller Name;Nom;0.6302
+Created By Name;Nom;0.6302
+SI - Montant Prévisions Recours Restantes;Prévision de recours à la garantie du sinistre;0.6255
+SI - Montant Prévisions Recours Restantes;Prévision de recours à la garantie du sinistre;0.6255
+SI - Montant Prévisions Recours Restantes;Prévision de recours à la garantie du sinistre;0.6255
+SI - Montant Prévisions Recours Restantes;Prévision de recours à la garantie du sinistre;0.6255
+SI - Montant Prévisions Recours Restantes;Prévision de recours à la garantie du sinistre;0.6255
+SI - Montant Prévisions Recours Restantes;Prévision de recours à la garantie du sinistre;0.6255
+SI - Montant Prévisions Recours Restantes;Prévision de recours à la garantie du sinistre;0.6255
+SI - Montant Prévisions Recours Restantes;Prévision de recours à la garantie du sinistre;0.6255
+CO - Code Postal;Code postal du bien assuré;0.611
+CO - Etage;Etage du risque MRH;0.6099
+CO - Etage;Etage du risque MRH;0.6099
+CO - Montant Franchise Choisie;Montant franchise MRH;0.5775
+CO-Montant Prime TTC;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.5661
+CO-Montant Prime TTC;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.5661
+CO-Montant Prime TTC;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.5661
+CO-Montant Prime TTC;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.5661
+CO-Montant Prime TTC;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.5661
+CO-Montant Prime TTC;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.5661
+CO-Montant Prime TTC;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.5661
+CO-Montant Prime TTC;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.5661
+ALD – Code garantie;Code garantie sinistre;0.5632
+SI - Code Cause GROUPAMA;Code cause sinistre;0.554
+Primary Address Id;Adresse;0.5445
+N° d Avenant Sogessur;Numéro d'avenant;0.5432
+N° d Avenant Sogessur;Numéro d'avenant;0.5432
+Code Garantie Retraitée;Code garantie sinistre;0.5337
+Code Garantie Retraitée;Code garantie sinistre;0.5337
+Code Garantie Retraitée;Code garantie sinistre;0.5337
+CO - Date Permis Titulaire CG;Date de permis titulaire carte grise;0.5288
+SI - Code Bénéficiaire;Code bénéficiaire mouvement technique sinistre;0.5257
+N° Contrat Sogessur;Numéro de contrat;0.5242
+N° Contrat Sogessur;Numéro de contrat;0.5242
+N° Contrat Sogessur;Numéro de contrat;0.5242
+SI - Code Etat GROUPAMA;Etat du sinistre;0.5163
+SI - Code Etat GROUPAMA;Etat du sinistre;0.5163
+CO - Clauses réintégrées A-1 hors réduction;Tarification MRH - montant de clause réintégrées - situation A - 1;0.5045
+Service Region Id;Pays;0.5032
+SI - Montant Total Garantie;Montant reversements encaissés total;0.4928
+SI - Montant Total Garantie;Montant reversements encaissés total;0.4928
+SI - Montant Total Garantie;Montant reversements encaissés total;0.4928
+SI - Montant Total Garantie;Montant reversements encaissés total;0.4928
+SI - Montant Total Garantie;Montant reversements encaissés total;0.4928
+SI - Montant Total Garantie;Montant reversements encaissés total;0.4928
+SI - Montant Total Garantie;Montant reversements encaissés total;0.4928
+SI - Montant Total Garantie;Montant reversements encaissés total;0.4928
+CO - CLIA;Tarification auto - CLIA après matrice;0.4926
+Type of Activity on the Contract;Type de montant;0.4914
+ALD – numéro de sinistre;Numéro du sinistre;0.4794
+CO - N° de contrat ALDI;Numéro de contrat;0.4696
+CO - N° de contrat ALDI;Numéro de contrat;0.4696
+N° Contrat ou de devis;Numéro de contrat;0.4696
+N° Contrat ou de devis;Numéro de contrat;0.4696
+CO - N° de contrat ALDI;Numéro de contrat;0.4696
+N° Contrat ou de devis;Numéro de contrat;0.4696
+CO - N° de contrat ALDI;Numéro de contrat;0.4696
+Auto CF Region Id;Pays;0.4604
+Policy Amendment Number;Numéro d'avenant;0.46
+SI - Code Bénéficiaire Montant;Code bénéficiaire mouvement technique sinistre;0.4591
+SI - Code Bénéficiaire Montant;Code bénéficiaire mouvement technique sinistre;0.4591
+SI - Code Bénéficiaire Montant;Code bénéficiaire mouvement technique sinistre;0.4591
+SI - Code Bénéficiaire Montant;Code bénéficiaire mouvement technique sinistre;0.4591
+SI - Code Bénéficiaire Montant;Code bénéficiaire mouvement technique sinistre;0.4591
+SI - Code Bénéficiaire Montant;Code bénéficiaire mouvement technique sinistre;0.4591
+SI - Code Bénéficiaire Montant;Code bénéficiaire mouvement technique sinistre;0.4591
+SI - Code Bénéficiaire Montant;Code bénéficiaire mouvement technique sinistre;0.4591
+CO - Produit Financier;Code produit;0.4559
+Numéro de client SOGESSUR;Numéro de client assuré;0.4509
+Numéro de client SOGESSUR;Numéro de client assuré;0.4509
+Primary Ship To Address Id;Adresse;0.4467
+Numéro de sinistre MSA;Numéro du sinistre;0.4326
+Numéro de sinistre MSA;Numéro du sinistre;0.4326
+SI - Montant Total Paiements;Montant reversements encaissés total;0.4307
+SI - Montant Total Paiements;Montant reversements encaissés total;0.4307
+SI - Montant Total Paiements;Montant reversements encaissés total;0.4307
+SI - Montant Total Paiements;Montant reversements encaissés total;0.4307
+SI - Montant Total Paiements;Montant reversements encaissés total;0.4307
+SI - Montant Total Paiements;Montant reversements encaissés total;0.4307
+SI - Montant Total Paiements;Montant reversements encaissés total;0.4307
+SI - Montant Total Paiements;Montant reversements encaissés total;0.4307
+CO - Nbre Pièces;Nombre de pièces MRH;0.4202
+SI - Cause of Loss;Code cause sinistre;0.396
+N° de Client SOG;Numéro de client assuré;0.3882
+CO - Code postal société;Code postal du bien assuré;0.3752
+ALD - N° Sinistre Sogessur;Numéro du sinistre;0.3743
+ALD - N° Sinistre Sogessur;Numéro du sinistre;0.3743
+CO - ID client;Numéro de client assuré;0.3741
+CO - Customer Id;Numéro de client assuré;0.3741
+SI - ID Client;Numéro de client assuré;0.3741
+CO - Conduite Accompagnée;Apprentissage anticipé de la conduite;0.3717
+Contract Id;Numéro de contrat;0.3695
+Contract Id;Numéro de contrat;0.3695
+Contract Id;Numéro de contrat;0.3695
+Contract Id;Numéro de contrat;0.3695
+Claim Id;Numéro du sinistre;0.3525
+ALD - N° Contrat SGR;Numéro de contrat;0.3374
+CO - CSP de l'assuré principal;Date échéance principale;0.3359
+CO - Prime TTC du Contrat (hors frais);Montant de la prime commerciale d'assurance hors taxes en devise de reporting;0.3358
+CO - Prime TTC du Contrat (hors frais);Montant de la prime commerciale d'assurance hors taxes en devise de reporting;0.3358
+CO - Amendment Reason;Numéro d'avenant;0.3153
+SI - Claim Close Date;Date de survenance du sinistre;0.2973
+SI - Claim Report Date;Date de survenance du sinistre;0.2973
+SI - Claim Record Date;Date de survenance du sinistre;0.2973
+SI - Claim Reopen Date;Date de survenance du sinistre;0.2973
+SI - Claim Occurrence Date;Date de survenance du sinistre;0.2973
+SI - Claim OpenDate;Numéro du sinistre;0.2749
+SI - Date Saisie Montant;Type de montant;0.2576
+SI - Date Saisie Montant;Type de montant;0.2576
+SI - Date Saisie Montant;Type de montant;0.2576
+SI - Date Saisie Montant;Type de montant;0.2576
+SI - Date Saisie Montant;Type de montant;0.2576
+SI - Date Saisie Montant;Type de montant;0.2576
+SI - Date Saisie Montant;Type de montant;0.2576
+SI - Date Saisie Montant;Type de montant;0.2576
+CO - Commercial Premium Amount;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.2465
+CO - Commercial Premium Amount;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.2465
+NumÃ©ro d Avenant;Numéro d'avenant;0.2314
+SISG - Identifiant Contrat;Numéro de contrat;0.2111
+SI - Accident Date;Date de survenance du sinistre;0.1775
+N° Devis;Numéro du sinistre;0.1756
+SI - Date of Closure;Date de survenance du sinistre;0.1691
+SI - Occurance Date;Date de survenance du sinistre;0.1691
+CO - Montat Prime HT;Montant de la prime commerciale d'assurance TTC en devise de reporting;0.166
+Activity Number;Numéro du sinistre;0.1637
+Policy Number;Numéro du sinistre;0.1637
+Numéro de Police SOGESSUR;Numéro du sinistre;0.1467
+Numéro de Police SOGESSUR;Numéro du sinistre;0.1467
+Start Date of Insurance Cover (Written Date);Date de survenance du sinistre;0.1459
+CO - N° Prestation (Adhésion);Numéro du sinistre;0.1117
+ALD - N° Police SOG;Numéro du sinistre;0.1082
+Short Comment;Date de permis conducteur secondaire;0.0
+CO - Acceptation FID O/N;Code INSEE du bien assuré;0.0
+SG_Agence Mail;Date de permis conducteur principal;0.0
+CO - Gross Premium;Secteur professionnel assuré;0.0
+SI - Amount Reserve;Montant de la prime commerciale d'assurance hors taxes en devise de reporting;0.0
+Alias;Pays;0.0
+SI - Amount Incurred;Montant de la prime commerciale d'assurance hors taxes en devise de reporting;0.0
+SI - Amount Payment;Tarification MRH - CLIM avenant - taux d'évolution théorique;0.0
+SI - City of Accident;Type résidence MRH;0.0
