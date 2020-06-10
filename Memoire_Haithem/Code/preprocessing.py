@@ -7,11 +7,6 @@ import re
 import unicodedata
 import numpy as np
 import pandas as pd
-
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-from sklearn.metrics import confusion_matrix
-from nltk.stem.snowball import FrenchStemmer
 from nltk.tokenize import word_tokenize
 
 
